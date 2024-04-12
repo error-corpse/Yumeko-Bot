@@ -11,8 +11,9 @@
    
 
    "repository": "https://github.com/Rexinazor/Yumeko-Bot",
+         "stack": "heroku-22",
    "addons": [
-          {
+      {
          "options": {
             "version": "13"
          },
