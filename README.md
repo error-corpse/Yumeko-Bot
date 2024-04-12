@@ -40,7 +40,7 @@ Make sure to edit the start and restart bats to your needs.
 Note: the restart bat requires that User account control be disabled.
 
 ### Deploy to Heroku
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Rexinazor/Yumeko-Bot)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template[=https://github.com/Rexinazor/Yumeko-Bot](https://github.com/error-corpse/Yumeko-Bot))
 
 
 
